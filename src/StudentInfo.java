@@ -1,3 +1,13 @@
+/*
+ *Author:
+ *When:
+ *Objectives:
+ *Environment: 어떤oS로했는가, JDK Version, 어떤 editor    windows10, OpenJDK 11.0.16, Visual Studio/Eclipse 2022-6
+ */
+
+
+
+
 import java.util.Scanner;
 
 public class StudentInfo {
